@@ -88,7 +88,12 @@ graph TD
 *   RAGas evaluation pipeline
 *   Benchmarking local LLMs
 
-### 5. 🤝 [Contributing](./CONTRIBUTING.md)
+### 5. 📊 [Performance Metrics](./docs/METRICS.md)
+*   Latency benchmarks (TTFT/TPS)
+*   Retrieval accuracy (Faithfulness/Recall)
+*   Hardware-specific performance samples
+
+### 6. 🤝 [Contributing](./CONTRIBUTING.md)
 *   Coding standards
 *   Pull Request process
 *   Community guidelines
